@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom": { "model": "expandedblockset:block/capped_dark_oak_slab" },
+    "half=top": { "model": "expandedblockset:block/capped_dark_oak_slab_top" }
+  }
+}

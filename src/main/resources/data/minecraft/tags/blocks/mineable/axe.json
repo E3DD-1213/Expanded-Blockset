@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "expandedblockset:capped_oak_slab",
+    "expandedblockset:capped_spruce_slab",
+    "expandedblockset:capped_birch_slab",
+    "expandedblockset:capped_jungle_slab",
+    "expandedblockset:capped_acacia_slab",
+    "expandedblockset:capped_dark_oak_slab",
+    "expandedblockset:capped_mangrove_slab",
+    "expandedblockset:capped_cherry_slab"
+  ]
+}

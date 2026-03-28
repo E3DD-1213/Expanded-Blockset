@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom": { "model": "expandedblockset:block/capped_birch_slab" },
+    "half=top": { "model": "expandedblockset:block/capped_birch_slab_top" }
+  }
+}

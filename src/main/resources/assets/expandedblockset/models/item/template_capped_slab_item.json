@@ -1,5 +1,4 @@
 {
-  "parent": "expandedblockset:block/capped_oak_slab",
   "display": {
     "gui": {
       "rotation": [ 30, 225, 0 ],

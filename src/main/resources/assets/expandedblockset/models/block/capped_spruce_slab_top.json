@@ -1,0 +1,6 @@
+{
+  "parent": "expandedblockset:block/template_capped_slab_top",
+  "textures": {
+    "planks": "minecraft:block/spruce_planks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom": { "model": "expandedblockset:block/capped_mangrove_slab" },
+    "half=top": { "model": "expandedblockset:block/capped_mangrove_slab_top" }
+  }
+}

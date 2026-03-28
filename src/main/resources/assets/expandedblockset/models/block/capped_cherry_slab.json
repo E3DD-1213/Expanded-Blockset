@@ -1,6 +1,6 @@
 {
   "parent": "expandedblockset:block/template_capped_slab",
   "textures": {
-    "planks": "minecraft:block/oak_planks"
+    "planks": "minecraft:block/cherry_planks"
   }
 }

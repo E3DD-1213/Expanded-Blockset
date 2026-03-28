@@ -1,6 +1,6 @@
 {
   "variants": {
     "half=bottom": { "model": "expandedblockset:block/capped_oak_slab" },
-    "half=top": { "model": "expandedblockset:block/capped_oak_slab", "x": 180 }
+    "half=top": { "model": "expandedblockset:block/capped_oak_slab_top" }
   }
 }
